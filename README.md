@@ -3,5 +3,4 @@
 - 📗 I'm a student at Lublin University of Technology in Poland. My major is Computer Science, with my specialization being Software Engineering.
 - 🌱 I’m currently learning Web Dev (JS, React), Swift and Basics of AI in Python.
 - 💞️ I’m looking to collaborate on any interesting projects in JavaScript, C++ or Python, Linux and everything that's open source.
-- 📫 How to reach me:
-      email: dawidpopiolek@protonmail.com
+- 📫 How to reach me: dawidpopiolek@protonmail.com
