@@ -2,5 +2,5 @@
 - 👀 I am a software engineer currently working as a Full Stack Web Developer in Next.js
 - 📚 I study Software Engineering at Lublin University of Technology in Poland
 - 💞 My hobbies are Skateboarding, Volleyball and Film Photography.
-- 🌱 I’m looking to collaborate on any interesting projects in Web Development, Linux, Embedded Systems and everything that's open source
+- 🌱 I’m looking to collaborate on any interesting open source projects in Web Development, Linux and Embedded Systems
 - 📫 How to reach me: dawidpopiolek@protonmail.com
